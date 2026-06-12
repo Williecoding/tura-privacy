@@ -146,10 +146,13 @@ Kami dapat memperbarui kebijakan ini sewaktu-waktu. Versi terbaru selalu tersedi
 
 Untuk pertanyaan, keluhan, atau permintaan terkait data pribadi Anda:
 
-- **Email IT:** it@tura.tech
-- **Email HR:** hr@tura.tech
-- **Perusahaan:** PT Tura Group Indonesia
-- **Alamat:** [Alamat kantor pusat — perlu diisi]
+- **Email:** willie@tura.tech
+- **Perusahaan:** PT Tura Teknologi Informasi
+- **Alamat:**
+  Gedung Menara Karya Lt. 28
+  Jl. H. R. Rasuna Said Blok X-5 Kav. 1-2
+  Kuningan Timur, Setiabudi
+  Jakarta Selatan 12950
 
 ---
 
